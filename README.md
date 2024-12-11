@@ -2,20 +2,17 @@
 <h1 align="center">Hi 👋, I'm Madhu Mohan Reddy</h1>
 
 <h3 align="center">"Driven by a deep passion for learning data structures and algorithms, I am constantly challenged and excited by solving complex problems and refining my problem-solving skills."</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_423_752/0/1691989932072?e=1728518400&v=beta&t=db71HsVYlSLJrqCAc0P9mkD1UJfW-LMFzTQsy5p99i8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ymadhumohanreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ymadhumohanreddy" /> </p>
 
-- 🌱 I’m currently learning **DSA**
-
-- 💬 Ask me about **Python, Machine Learning**
+- 🌱 I’m currently learning **Currently advancing my expertise in Full Stack Development and optimizing Data Structures and Algorithms (DSA) skills.**
 
 - 📫 How to reach me **yeddulamadhu6@gmail.com**
 
-- 📄 Know about my experiences:(https://drive.google.com/file/d/19gXzR7poXrzRAh4U6O7Jtf47wBSKSVm5/view?usp=drive_link)
+- 📄 Know about my experiences:(https://drive.google.com/file/d/1AVe_Ve0_Iv6k9v4oQlww84JhTZu9rMJb/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/madhu yeddula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhu yeddula" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/madhu-yeddula-469583274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhu yeddula" height="30" width="40" /></a>
 <a href="https://instagram.com/madhu_mohanreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhu_mohanreddy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yeddulamadhu6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yeddulamadhu6" height="30" width="40" /></a>
 </p>
