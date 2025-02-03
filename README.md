@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Currently advancing my expertise in Full Stack Development and optimizing Data Structures and Algorithms (DSA) skills.**
 
 - 📫 How to reach me **yeddulamadhu6@gmail.com**
-
-- 📄 Know about my experiences:(https://drive.google.com/file/d/1AVe_Ve0_Iv6k9v4oQlww84JhTZu9rMJb/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/madhu-yeddula-469583274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhu yeddula" height="30" width="40" /></a>
