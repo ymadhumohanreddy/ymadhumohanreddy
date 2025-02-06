@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Madhu Mohan Reddy</h1>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&width=600&lines=Hello%2C+I'm+MadhuMohanReddy)](https://git.io/typing-svg)
+
 
 <h3 align="center">"Driven by a deep passion for learning data structures and algorithms, I am constantly challenged and excited by solving complex problems and refining my problem-solving skills."</h3>
 
