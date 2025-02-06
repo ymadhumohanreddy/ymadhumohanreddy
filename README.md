@@ -1,5 +1,3 @@
-![MasterHead](![githubgif](https://github.com/user-attachments/assets/a1352fde-b800-4646-a9f9-da0e5ba0d43f)
-)
 <h1 align="center">Hi 👋, I'm Madhu Mohan Reddy</h1>
 
 <h3 align="center">"Driven by a deep passion for learning data structures and algorithms, I am constantly challenged and excited by solving complex problems and refining my problem-solving skills."</h3>
